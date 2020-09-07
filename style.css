@@ -18,6 +18,7 @@ html {
     background-color: #f6f6f6;
     display: grid;
     place-items: center;
+    background-image: url('images/bg2.jpg');
 }
 
 .music_container {
